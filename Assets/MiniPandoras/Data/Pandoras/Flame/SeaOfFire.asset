@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4243bd98b3b34d94f8d56eb94177ab92, type: 3}
+  m_Name: SeaOfFire
+  m_EditorClassIdentifier: MiniPandoras::MiniPandoras.Skills.SkillDefinition
+  displayName: "\uBD88\uBC14\uB2E4"
+  description: "\uB113\uC740 \uBD88\uBC14\uB2E4\uB97C 8\uCD08 \uB0A8\uAE34\uB2E4."
+  cost: 22
+  cooldown: 30
+  power: 1.6
+  burn: 0.02
+  shape:
+    kind: 1
+    radius: 5
+    band: 0
+    growTime: 0
+    speed: 0
+    range: 0
+    flightTime: 0
+    knock: 0
+    ticks: 16
+    interval: 0.5
+    tickPower: 0.8
+    puddleRadius: 0
+  pose: 5
+  castTime: 0.6
+  releaseAt: 0.25
+  effect: {fileID: 2821050751329430871, guid: ff1b8c71f7250fe4794a31001df96a89, type: 3}
+  impact: {fileID: 0}
+  aiRange: {x: 0, y: 3}

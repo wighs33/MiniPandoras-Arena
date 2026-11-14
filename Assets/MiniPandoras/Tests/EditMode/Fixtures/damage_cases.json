@@ -1,0 +1,249 @@
+{
+ "damage": [
+  {
+   "atk": 10,
+   "def": 16,
+   "power": 1,
+   "roll": 0,
+   "result": 1
+  },
+  {
+   "atk": 10,
+   "def": 16,
+   "power": 1,
+   "roll": 0.25,
+   "result": 1
+  },
+  {
+   "atk": 10,
+   "def": 16,
+   "power": 1,
+   "roll": 0.5,
+   "result": 1
+  },
+  {
+   "atk": 10,
+   "def": 16,
+   "power": 1,
+   "roll": 0.75,
+   "result": 1
+  },
+  {
+   "atk": 10,
+   "def": 16,
+   "power": 1,
+   "roll": 0.999,
+   "result": 1
+  },
+  {
+   "atk": 11,
+   "def": 6,
+   "power": 1.25,
+   "roll": 0,
+   "result": 9
+  },
+  {
+   "atk": 11,
+   "def": 6,
+   "power": 1.25,
+   "roll": 0.25,
+   "result": 10
+  },
+  {
+   "atk": 11,
+   "def": 6,
+   "power": 1.25,
+   "roll": 0.5,
+   "result": 10
+  },
+  {
+   "atk": 11,
+   "def": 6,
+   "power": 1.25,
+   "roll": 0.75,
+   "result": 11
+  },
+  {
+   "atk": 11,
+   "def": 6,
+   "power": 1.25,
+   "roll": 0.999,
+   "result": 11
+  },
+  {
+   "atk": 12,
+   "def": 7,
+   "power": 1.45,
+   "roll": 0,
+   "result": 12
+  },
+  {
+   "atk": 12,
+   "def": 7,
+   "power": 1.45,
+   "roll": 0.25,
+   "result": 13
+  },
+  {
+   "atk": 12,
+   "def": 7,
+   "power": 1.45,
+   "roll": 0.5,
+   "result": 14
+  },
+  {
+   "atk": 12,
+   "def": 7,
+   "power": 1.45,
+   "roll": 0.75,
+   "result": 14
+  },
+  {
+   "atk": 12,
+   "def": 7,
+   "power": 1.45,
+   "roll": 0.999,
+   "result": 15
+  },
+  {
+   "atk": 16,
+   "def": 8,
+   "power": 2.3,
+   "roll": 0,
+   "result": 29
+  },
+  {
+   "atk": 16,
+   "def": 8,
+   "power": 2.3,
+   "roll": 0.25,
+   "result": 31
+  },
+  {
+   "atk": 16,
+   "def": 8,
+   "power": 2.3,
+   "roll": 0.5,
+   "result": 32
+  },
+  {
+   "atk": 16,
+   "def": 8,
+   "power": 2.3,
+   "roll": 0.75,
+   "result": 34
+  },
+  {
+   "atk": 16,
+   "def": 8,
+   "power": 2.3,
+   "roll": 0.999,
+   "result": 36
+  },
+  {
+   "atk": 25,
+   "def": 80,
+   "power": 1,
+   "roll": 0,
+   "result": 1
+  },
+  {
+   "atk": 25,
+   "def": 80,
+   "power": 1,
+   "roll": 0.25,
+   "result": 1
+  },
+  {
+   "atk": 25,
+   "def": 80,
+   "power": 1,
+   "roll": 0.5,
+   "result": 1
+  },
+  {
+   "atk": 25,
+   "def": 80,
+   "power": 1,
+   "roll": 0.75,
+   "result": 1
+  },
+  {
+   "atk": 25,
+   "def": 80,
+   "power": 1,
+   "roll": 0.999,
+   "result": 1
+  },
+  {
+   "atk": 46,
+   "def": 10,
+   "power": 2.2,
+   "roll": 0,
+   "result": 86
+  },
+  {
+   "atk": 46,
+   "def": 10,
+   "power": 2.2,
+   "roll": 0.25,
+   "result": 91
+  },
+  {
+   "atk": 46,
+   "def": 10,
+   "power": 2.2,
+   "roll": 0.5,
+   "result": 96
+  },
+  {
+   "atk": 46,
+   "def": 10,
+   "power": 2.2,
+   "roll": 0.75,
+   "result": 100
+  },
+  {
+   "atk": 46,
+   "def": 10,
+   "power": 2.2,
+   "roll": 0.999,
+   "result": 105
+  },
+  {
+   "atk": 30,
+   "def": 17,
+   "power": 0,
+   "roll": 0,
+   "result": 1
+  },
+  {
+   "atk": 30,
+   "def": 17,
+   "power": 0,
+   "roll": 0.25,
+   "result": 1
+  },
+  {
+   "atk": 30,
+   "def": 17,
+   "power": 0,
+   "roll": 0.5,
+   "result": 1
+  },
+  {
+   "atk": 30,
+   "def": 17,
+   "power": 0,
+   "roll": 0.75,
+   "result": 1
+  },
+  {
+   "atk": 30,
+   "def": 17,
+   "power": 0,
+   "roll": 0.999,
+   "result": 1
+  }
+ ]
+}

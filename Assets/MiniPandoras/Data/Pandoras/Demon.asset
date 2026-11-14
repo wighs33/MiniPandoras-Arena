@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4966b961d6783904b82b7f1e229c73c8, type: 3}
+  m_Name: Demon
+  m_EditorClassIdentifier: MiniPandoras::MiniPandoras.Skills.PandoraDefinition
+  displayName: "\uC545\uB9C8"
+  color: {r: 0.72156864, g: 0.1882353, b: 0.43529412, a: 1}
+  skills:
+  - {fileID: 11400000, guid: bc51da6a01593154cb4b8402fc5655e9, type: 2}
+  - {fileID: 11400000, guid: 6377b8477a397044898987764657a6c4, type: 2}
+  - {fileID: 11400000, guid: c6832be466e2d81488742205849c96ab, type: 2}
+  - {fileID: 11400000, guid: 6aca73add41af22479afbcf4e18fd1c9, type: 2}

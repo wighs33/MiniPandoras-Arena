@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4243bd98b3b34d94f8d56eb94177ab92, type: 3}
+  m_Name: EmberShot
+  m_EditorClassIdentifier: MiniPandoras::MiniPandoras.Skills.SkillDefinition
+  displayName: "\uBD88\uC528\uD0C4"
+  description: "\uBD88\uC528\uB97C \uB0A0\uB824 \uC801\uC744 \uD0DC\uC6B4\uB2E4."
+  cost: 5
+  cooldown: 0.92
+  power: 2
+  burn: 0.02
+  shape:
+    kind: 0
+    radius: 0.5
+    band: 0
+    growTime: 0
+    speed: 12.75
+    range: 9.4
+    flightTime: 0
+    knock: 0.31
+    ticks: 0
+    interval: 0
+    tickPower: 0
+    puddleRadius: 0
+  pose: 0
+  castTime: 0.45
+  releaseAt: 0.2
+  effect: {fileID: 2133439905194488201, guid: 29a06f379999b8c4b8ec0d83437bc2c5, type: 3}
+  impact: {fileID: 7184749354179578116, guid: 8a95fc003fbdd4c4fbfe61e3a005e2f1, type: 3}
+  aiRange: {x: 1.5, y: 9}

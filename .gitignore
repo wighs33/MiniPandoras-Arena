@@ -1,0 +1,46 @@
+# 이 저장소에는 코드·도구·문서만 올린다(2D판 저장소와 같은 방식).
+# 씬, 프리팹, 그림(인물 Luna 포함), 외부 에셋, 빌드, 촬영한 영상, Unity가 만드는 폴더는 올리지 않는다(로컬 Unity 프로젝트에만 있다).
+# 그래서 모든 것을 무시한 뒤, 올릴 것만 다시 넣는다(허용 목록).
+/*
+!/.gitignore
+!/.editorconfig
+!/README.md
+
+# 문서
+!/Docs/
+
+# 그림·메시를 짓는 스크립트(Blender, Pillow)와 Cloud Code 테스트. 만든 그림은 올리지 않는다.
+!/Tools/
+/Tools/**/*.png
+# 버린 옛 인물(코드로 지은 로우폴리)의 스크립트. 지금은 쓰지 않는다.
+/Tools/Blender/build_fighter.py
+
+# 쓰는 Unity 패키지 목록
+!/Packages/
+/Packages/*
+!/Packages/manifest.json
+
+# C# 코드(게임, 에디터 도구, 테스트와 어셈블리 정의), 셰이더, 입력 액션
+!/Assets/
+/Assets/*
+!/Assets/MiniPandoras/
+/Assets/MiniPandoras/*
+!/Assets/MiniPandoras/Scripts/
+!/Assets/MiniPandoras/Editor/
+!/Assets/MiniPandoras/Tests/
+!/Assets/MiniPandoras/Shaders/
+!/Assets/MiniPandoras/Settings/
+/Assets/MiniPandoras/Settings/*
+!/Assets/MiniPandoras/Settings/*.inputactions
+# 게임 수치(판도라·스킬·인물·AI). 에셋이 정본이라 코드와 함께 올린다.
+!/Assets/MiniPandoras/Data/
+# 서버 쪽: Cloud Code 스크립트, 순위표 설정, 접근 정책
+!/Assets/MiniPandoras/Cloud/
+
+# 에셋이 없는 저장소라 Unity의 .meta는 의미가 없다.
+*.meta
+
+# 캐시
+__pycache__/
+*.pyc
+node_modules/
