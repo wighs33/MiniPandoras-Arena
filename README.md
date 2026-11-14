@@ -4,7 +4,8 @@
 
 2D RPG 「미니판도라즈」의 판도라·전투 규칙(피해 공식, 스킬 데이터)을 가져와 3D 실시간 대전으로 옮겼습니다. 혼자서는 AI 상대와, 둘이서는 방 코드나 빠른 매칭으로 웹·PC·안드로이드 어디서든 같은 방에서 싸웁니다.
 
-- 포트폴리오: https://hyeonsik-game-portfolio.vercel.app/?sector=unity#projects (이 작품의 상세 페이지, 플레이 영상, 웹 데모는 준비 중)
+- 포트폴리오 페이지: https://hyeonsik-game-portfolio.vercel.app/projects/minipandoras-arena/
+- 플레이 영상(72초): https://youtu.be/2qQKSi5xhaM
 - 개발: 1인 개발. 코드는 Claude Code와 함께 작성했습니다.
 
 | 항목 | 내용 |
