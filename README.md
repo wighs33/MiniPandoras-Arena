@@ -1,4 +1,4 @@
-# MiniPandoras Arena
+# Pandora Arena
 
 판도라의 힘으로 싸우는 1대1 온라인 대전 아레나. Unity 클라이언트 개발자 포트폴리오입니다.
 
